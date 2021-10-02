@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenProfileFN", "GenProfileFN.csproj", "{2A744135-2865-4004-AE87-47544AE3351A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9061094-B18E-4154-8B4D-2B96DD857DC2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A744135-2865-4004-AE87-47544AE3351A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A744135-2865-4004-AE87-47544AE3351A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A744135-2865-4004-AE87-47544AE3351A}.Debug|x64.ActiveCfg = Release|x64
+		{2A744135-2865-4004-AE87-47544AE3351A}.Debug|x64.Build.0 = Release|x64
+		{2A744135-2865-4004-AE87-47544AE3351A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A744135-2865-4004-AE87-47544AE3351A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A744135-2865-4004-AE87-47544AE3351A}.Release|x64.ActiveCfg = Release|x64
+		{2A744135-2865-4004-AE87-47544AE3351A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC7F29A-261A-4A4D-BDE4-4F65A430B6B3}
+	EndGlobalSection
+EndGlobal
